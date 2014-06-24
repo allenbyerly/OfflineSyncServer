@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[OfflineServer.csproj]
+SCC_Aux_Path = http://sourceext.ensyncsolutions.net:7070/VaultService|Default:2
+SCC_Project_Name = $/Jacam/Field Services/ScanworksService/OfflineServer

@@ -1,0 +1,16 @@
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\OfflineServer.dll
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\OfflineServer.pdb
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\ErpProcesses.dll
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\Microsoft.Dynamics.BusinessConnectorNet.dll
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\AXInterface.dll
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\ScannerFunctions.dll
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\ErpProcesses.pdb
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\Microsoft.Dynamics.BusinessConnectorNet.xml
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\AXInterface.pdb
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\bin\Debug2\ScannerFunctions.pdb
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\obj\Debug2\ResolveAssemblyReference.cache
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\obj\Debug2\OfflineServer.Properties.Resources.resources
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\obj\Debug2\GenerateResource-ResGen.read.1.tlog
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\obj\Debug2\GenerateResource-ResGen.write.1.tlog
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\obj\Debug2\OfflineServer.dll
+C:\Development\Jacam\Field Services\ScanworksService\OfflineServer\obj\Debug2\OfflineServer.pdb
